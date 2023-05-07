@@ -1,0 +1,47 @@
+.navbar-custom{
+    background-color: #9EB7E5;
+}
+.bg-custom{
+    background-color: #9EB7E5;
+}
+.text-custom{
+    color: #000000;
+}
+.text-secondary-custom{
+    color: #000F08;
+}
+.card-custom-bg{
+    border: #000F08;
+    background-color: #655A7C;
+    color: white;
+}
+.card-bg-all{
+    background-color: #808D8E;
+}
+.btn-ponuda{
+    background-color: #38405F;
+    color: white;
+}
+.footer-bg{
+    background-color: #808D8E;
+    color: black;
+}
+.btn-newsletter{
+    background-color: #38405F;
+  
+}
+.info-text{
+    font-size: 10px;
+}
+.naslov{
+    font-family: 'Hind';
+   
+}
+.podnaslov{
+    font-family: 'Sans Narrow';
+    
+}
+.obican{
+    font-family: 'Ek Mukta';
+  
+}
